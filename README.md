@@ -1,10 +1,6 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+CryptoVerse 
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
-
-By the end of this video, you will become the master of working with APIs.
+1. Your one stop solution for all the details related to Cryptocurrency. 
+2. Historical data, latest news and cryptocurrency exchanges.
+3. APIs powered by https://rapidapi.com.
+4. Built using React, Redux Toolkit, Chart JS, millify, ANT Design.
